@@ -6,7 +6,6 @@ Database link in sqlite format can be accessed from here :- https://drive.google
 
 ## 2.Clone the Forked Repository:
   #### Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon
-![image](https://github.com/Surya-Abhinai/INTEL_QUEST-Plagiarism-Checker-/assets/124990558/7f0cd92a-893d-4860-ae47-364bc7fd3416)
   #### Use the git clone command to clone your forked repository to your local machine. Replace   <repository-url> with the URL of your forked repository.
   ```
   git clone <repository-url>
