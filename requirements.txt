@@ -1,0 +1,7 @@
+Flask==2.3.3
+beautifulsoup4==4.11.1
+requests==2.31.1
+PyPDF2==2.33.0
+docx==0.19
+qdrant-client==1.15.0
+sentence-transformers==2.3.1
